@@ -199,7 +199,7 @@ function Library:NewWindow(ConfigWindow)
 	LogoHub.BorderSizePixel = 0
 	LogoHub.Position = UDim2.new(0, 10, 0, 5)
 	LogoHub.Size = UDim2.new(0, 40, 0, 35)
-	LogoHub.Image = "rbxassetid://124762714875426"
+	LogoHub.Image = "rbxassetid://136983933774417"
 
 	Desc.Name = "Desc"
 	Desc.Parent = Left
@@ -906,7 +906,7 @@ function Library:NewWindow(ConfigWindow)
 				ImageLabel.BorderSizePixel = 0
 				ImageLabel.Position = UDim2.new(1, -35, 0.5, 0)
 				ImageLabel.Size = UDim2.new(0, 24, 0, 24)
-				ImageLabel.Image = "rbxassetid://85905776508942"
+				ImageLabel.Image = "rbxassetid://136983933774417"
 				Library:UpdateContent(Content_2, Title_3, Button)
 				Button_Click.Activated:Connect(function()
 					Button.BackgroundTransparency = 0.970
