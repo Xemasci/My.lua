@@ -256,7 +256,7 @@ function Library:NewWindow(ConfigWindow)
 	Icon.BorderSizePixel = 0
 	Icon.Position = UDim2.new(0.5, 0, 0.5, 0)
 	Icon.Size = UDim2.new(0, 20, 0, 20)
-	Icon.Image = "rbxassetid://136983933774417"
+	Icon.Image = "rbxassetid://136452605242985"
 	Icon.ImageRectOffset = Vector2.new(288, 672)
 	Icon.ImageRectSize = Vector2.new(96, 96)
 
@@ -281,7 +281,7 @@ function Library:NewWindow(ConfigWindow)
 	Icon_2.BorderSizePixel = 0
 	Icon_2.Position = UDim2.new(0.5, 0, 0.5, 0)
 	Icon_2.Size = UDim2.new(0, 18, 0, 18)
-	Icon_2.Image = "rbxassetid://136983933774417"
+	Icon_2.Image = "rbxassetid://136452605242985"
 	Icon_2.ImageRectOffset = Vector2.new(580, 194)
 	Icon_2.ImageRectSize = Vector2.new(96, 96)
 
