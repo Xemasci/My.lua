@@ -10,7 +10,7 @@ gui.ResetOnSpawn = false
 local Toggle = Instance.new("ImageButton", gui)
 Toggle.Size = UDim2.new(0,50,0,50)
 Toggle.Position = UDim2.new(0,10,0,10)
-Toggle.Image = "rbxassetid://7733658504" -- เปลี่ยนได้
+Toggle.Image = "rbxassetid://73966622627771" -- เปลี่ยนได้
 Toggle.BackgroundColor3 = Color3.fromRGB(25,25,25)
 Toggle.BorderSizePixel = 0
 
